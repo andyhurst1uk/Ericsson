@@ -1,1 +1,1 @@
-# Ericsson-MSTP_Convergence_Time
+# The script configures 2 × OMS1410 cards, using Ixia TCL API IxTclHal, and an Ixia X16 chassis to generate and capture test frames which the scripts analyses to determine topology change notification within the network and consequently the timing of convergences and MAC flooding
