@@ -1,1 +1,2 @@
+# Configures test frames to generate traffic, analyses & determine topology change notification within the network, timing of convergences, & MAC flooding
 # The script configures 2 × OMS1410 cards, using Ixia TCL API IxTclHal, and an Ixia X16 chassis to generate and capture test frames which the scripts analyses to determine topology change notification within the network and consequently the timing of convergences and MAC flooding
